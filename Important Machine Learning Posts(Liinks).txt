@@ -18,3 +18,7 @@ https://www.linkedin.com/posts/pooja-jain-898253106_data-cleaning-guide-ugcPost-
 
 7) Data Analytics Project ideas
 https://www.linkedin.com/feed/update/urn:li:activity:7088709766167887873?utm_source=share&utm_medium=member_desktop
+
+
+8) SQL Writing best practices:
+https://www.linkedin.com/posts/ankitbansal6_dataanalytics-sql-bestpractices-activity-7089117100916559873-blCb?utm_source=share&utm_medium=member_desktop
