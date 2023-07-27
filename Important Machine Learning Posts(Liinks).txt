@@ -22,3 +22,27 @@ https://www.linkedin.com/feed/update/urn:li:activity:7088709766167887873?utm_sou
 
 8) SQL Writing best practices:
 https://www.linkedin.com/posts/ankitbansal6_dataanalytics-sql-bestpractices-activity-7089117100916559873-blCb?utm_source=share&utm_medium=member_desktop
+
+9) 75 important leetcode DSA problems
+https://www.linkedin.com/posts/maheshpal-singh-rathore-a7645a202_75-most-important-leetcode-dsa-questions-ugcPost-7089436833205354496-YK7w?utm_source=share&utm_medium=member_desktop
+
+10) How to choose right graph chart
+https://www.linkedin.com/posts/daksh-k-583b47230_how-to-choose-the-right-data-visualization-ugcPost-7089522424479678464-ggCM?utm_source=share&utm_medium=member_desktop
+
+11) Data analytics project ideas:
+https://www.linkedin.com/posts/pragya-rathi-8025b526a_datascience-dataanalytics-dataanalyst-activity-7089610508139413504-tz4q?utm_source=share&utm_medium=member_desktop
+
+12) Important excel methods
+https://www.linkedin.com/feed/update/urn:li:activity:7089586338550714368?utm_source=share&utm_medium=member_desktop
+
+13) Data analytics challanges/Problemset
+https://www.linkedin.com/posts/jonathan-smith-46375090_alwaysbelearning-dataanalytics-transitioningteachers-activity-7089574509703294977-ohcI?utm_source=share&utm_medium=member_desktop
+
+14) SQL revision interview
+https://www.linkedin.com/feed/update/urn:li:activity:7089639476251037697?utm_source=share&utm_medium=member_desktop
+
+15) Leetcode problem patterns for interview prep
+https://www.linkedin.com/posts/ashishps1_10-leetcode-articles-that-will-make-your-activity-7087287440918409216-RfSs?utm_source=share&utm_medium=member_desktop
+
+16) How to email a resume
+https://www.linkedin.com/posts/kiran-kanwar-r-b7129022a_how-to-email-a-resume-ugcPost-7089423730505871360-NYen?utm_source=share&utm_medium=member_desktop
